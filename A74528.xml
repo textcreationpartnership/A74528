@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance declaring that the offences herein mentioned, and not other, shall be adjudged high treason within the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging. Thursday January 19. 1653. Ordered by His Highness the Lord Protector and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74528</idno><idno type="EEBO-CITATION">99868418</idno>
+  <idno type="VID">169175</idno>
+  <idno type="EEBO-PROQUEST">2240954946</idno>
+  
+            <idno type="STC">Thomason E1063_9</idno>
+            <idno type="STC">ESTC R209542</idno>
+            <idno type="PROQUEST">99868418</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868418e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169175)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance declaring that the offences herein mentioned, and not other, shall be adjudged high treason within the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging. Thursday January 19. 1653. Ordered by His Highness the Lord Protector and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 59-66, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653. [i.e. 1654]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Imperfect: staining.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Treason --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169175:1"/>
+            <p>AN ORDINANCE DECLARING That the OFFENCES herein mentioned, and no other, shall be adjudged HIGH TREASON <hi>Within the</hi> Common-Wealth Of ENGLAND, SCOTLAND, and IRELAND, and the Dominions thereunto belonging.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Thursday</hi> January 19. 1653.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by His Highness the Lord Protector and His Council, that this Ordinance be forthwith printed and published.</p>
+                        <closer>
+                           <signed>HENRY SCOBELL Clerk of the Council.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>William du-Gard</hi> and <hi>Henry Hills</hi> Prin<g ref="char:EOLhyphen"/>ters to His Highness the Lord Protector, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:169175:2"/>
+            <pb n="59" facs="tcp:169175:2"/>
+            <head>AN ORDINANCE Declaring that the Offences herein mentio<g ref="char:EOLhyphen"/>ned, and no other, shall be adjudged HIGH TREASON within the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Government of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions there<g ref="char:EOLhyphen"/>unto belonging, and the Supreme Le<g ref="char:EOLhyphen"/>gislative Authority of the same being setled and establish<g ref="char:EOLhyphen"/>ed to be and reside in One Person, and the Peo<g ref="char:EOLhyphen"/>ple
+<pb n="60" facs="tcp:169175:3"/>assembled in Parlament (the stile of which Person is already declared to be Lord Protector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland</hi>) and the Exercise of the chief Magistra<g ref="char:EOLhyphen"/>cy and Administration of the Government o<g ref="char:EOLhyphen"/>ver the said Countries and Dominions, and the people thereof, to be in the Lord Protector assi<g ref="char:EOLhyphen"/>sted with a Council, who have power, until the meeting of the next Parlament, (which is to be the third of <hi>September</hi> next) to make Lawes and Ordinances for the Peace and Welfare of these Nations, where it shall be necessary, which shall be binding and in force until Order shall be taken in Parlament concerning the same; And it being a matter of greatest Im<g ref="char:EOLhyphen"/>portance to the just Government of a People, That Crimes and Offences of highest nature, Punishment and Forfeiture, should be most clearly and fully expressed, and reduced into such certainty as the people might readily know them, and knowing them, might the better shun and avoid the same; And by reason that the Nation of <hi>Scotland</hi> is reduced unto, and brought under this Government, which must necessarily occasion an alteration of some Laws formerly in force; His Highness revising and perusing the several Lawes heretofore made in Cases of High Treason, and to the end the same might be brought into one Body, Doth Declare, Establish and Ordain, And be it E<g ref="char:EOLhyphen"/>stablished and Ordained by His Highness the Lord Protector, by and with the consent of His Council, That if any person or persons shall compass or imagine the death of the Lord Protector for the time being; Or if any person or persons shall maliciously or advisedly either
+<pb n="61" facs="tcp:169175:3"/>by writing, printing, openly declaring, preach<g ref="char:EOLhyphen"/>ing, teaching, or otherwise, publish, That the Lord <hi>PROTECTOR</hi> and the people in Parla<g ref="char:EOLhyphen"/>ment assembled, are not the Supreme Autho<g ref="char:EOLhyphen"/>rity of this Common wealth; Or that the Exercise of the chief Magistracie and admini<g ref="char:EOLhyphen"/>stration of the Government over the said Countries and Dominions, and the people thereof, is not in the <hi>Lord PROTECTOR</hi> assisted with a Council; Or that the said Authoritie or Government is Tyrannical, usurped, or unlaw<g ref="char:EOLhyphen"/>ful; Or that there is any Parlament now in beeing, or that hath any Continuance, or any Law in force for continuing the Parlament which is hereby declared to have been abso<g ref="char:EOLhyphen"/>lutely dissolved and determined upon the twen<g ref="char:EOLhyphen"/>tieth day of <hi>April,</hi> one thousand six hundred fiftie and three, and shall bee adjudged and taken so to bee; Or shall plot, contrive or endeavour to stir up or rais force against the <hi>PROTECTOR</hi> or the present Government, or for the subversion or alteration of the same, And shall declare such endeavour or endeavours by any open Deed, Then every such Offence shall bee taken and ad<g ref="char:EOLhyphen"/>judged to bee high Treason.</p>
+            <p>And whereas the <hi>Lord PROTECTOR</hi> and the Council, for the just and lawful defence of this Commonwealth, are at present necessitated, by reason of the manifold distractions within the same, and Invasions threatned from abroad, to continue. Armies and Forces in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> which (under God) must bee the Instrumental means of preserving the good people of these Nations in peace &amp; safetie; Be it further Ordained &amp; Established by the Au<g ref="char:EOLhyphen"/>thoritie aforesaid, That if any person (not beeing
+<pb n="62" facs="tcp:169175:4"/>an Officer, Souldier, or Member of the Ar<g ref="char:EOLhyphen"/>mies or Forces) shall plot contrive, or endea<g ref="char:EOLhyphen"/>vour to stir up any mutiny in the said Armies, or among the said forces, or any of them; Or to withdraw any Souldiers or Officers from their obedience to their Superiour Officers or from the present Government, as aforesaid, Or if any person or persons whatsoever shall pro<g ref="char:EOLhyphen"/>cure invite aid or assist any Foreiners or Stran<g ref="char:EOLhyphen"/>gers to invade <hi>England, Scotland,</hi> or <hi>Ireland,</hi> or any the Dominions thereunto belonging; Or shall adhere unto any Forces raised by the Ene<g ref="char:EOLhyphen"/>mies of this Common-wealth; Or if any person or persons shall plot, contrive or endeavour the betraying surrendring or yielding up any Citie, Town, Fort, Magazine, Ship, Vessel, or Forces by Sea or Land belonging to this Common-wealth; Or if any person or persons shall Counterfeit the Great Seal of <hi>England,</hi> or of <hi>Scotland,</hi> or <hi>Ireland,</hi> for the time beeing, used and appointed by Authoritie of Parlament, or by the <hi>Lord PROTECTOR</hi> with the Consent of the Council; Or the sign Manual, privie Signet, or privie Seal of the <hi>Lord PROTECTOR</hi> for the time beeing. Or if any person or persons whatsoever shall proclame, declare, publish, or any way promote <hi>Charles Stuart,</hi> Eldest Son to the late King, or <hi>James Stuart,</hi> one other of his Sons, or any other the issue or posteritie of the said late King, or any other person or persons claiming by, from, or under him or them, or either or any of them, to bee King or Chief Magistrate of <hi>England, Scotland,</hi> or <hi>Ireland,</hi> or of either or any of them, or of any the Domi<g ref="char:EOLhyphen"/>nions to them or either or any of them belong<g ref="char:EOLhyphen"/>ing; Or if any person or persons shall give,
+<pb n="63" facs="tcp:169175:4"/>keep, or hold any Intelligence whatsoever, by Letters, Messages, or otherwise, to or with the said <hi>Charles Stuart, James Stuart,</hi> the late Queen their mother, or any of them; Or if any person or persons shall Counterfeit the Money of this Common wealth; or shall bring any fals Money into this Land, either Counterfeit or other, like to the Money of this Common-wealth (knowing such money to bee fals) to the intent to Merchandize, or otherwise; Or if any person or persons shall hereafter falsly forge or Counterfeit any such kinde of Coyn, either of Gold or Silver, which is not the proper Coyn of this Common-wealth, and yet is or shall bee current within the same; Or shall bring from the parts beyond the Seas into this Common-wealth, or into any the Dominions of the same, any such fals or Counterfeit Coyn of mo<g ref="char:EOLhyphen"/>ney beeing current within this Common-wealh, as is abovesaid (knowing the said Mo<g ref="char:EOLhyphen"/>ney to bee fals and Counterfeit) to the intent to utter or make payment with the same, with<g ref="char:EOLhyphen"/>in this Common-wealth, by Merchandize or otherwise; Or if any person or persons shall Impair, Diminish, Falsifie, Clip, Wash Round, File, Scale, or lighten, for wicked lucre, or gain's sake, any the proper moneys of this Com<g ref="char:EOLhyphen"/>mon-wealth or of the Dominions thereof or of the moneys or Coyns of any other place allowed or suffered to bee current within this Common-wealth or the Dominions thereof; Then all and every the offences above-mentioned shall bee, and are hereby deemed, ordained &amp; adjudg<g ref="char:EOLhyphen"/>ed to bee high Treason; And the Offenders therein, and their Counsellors, Procurers, Aiders, and Abetters, beeing convitted accord<g ref="char:EOLhyphen"/>ing
+<pb n="64" facs="tcp:169175:5"/>to the Laws of this Nation of any of the said Offences, shall bee and are hereby deemed and adjudged to bee Traitors against this Common-wealth, and shall suffer and have such pains of death, and incurr such forfeitures, as in Case of high Treason is used and Or<g ref="char:EOLhyphen"/>dained.</p>
+            <p>Provided alwayes, That neither this Ordi<g ref="char:EOLhyphen"/>nance nor any thing therein contained as touch<g ref="char:EOLhyphen"/>ing the Moneys and Coynes aforesaid, nor any Attainder of any person or persons for the same, shall in any wise bee adjudged to make any Corruption of blood to any the heir or heirs of any such Offender or Offendors, nor to make the wife of any such Offendors to lose or forfeit her Dower of or in any Lands Tenements, or Hereditaments, or her Title, Action, or Interest in or to the same.</p>
+            <p>Provided alwaies, That no person or per<g ref="char:EOLhyphen"/>sons shall bee Indicted or arraigned for any of the Offences before mentioned in this Ordi<g ref="char:EOLhyphen"/>nance, unless such Offendor or Offendors shall bee Indicted or prosecuted for the same within one year after the offence commit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>And it is lastly Ordained and Established, That no other Matter, Fact, Crime, or Of<g ref="char:EOLhyphen"/>fence whatsoever, than onely such as are herein mentioned and expressed, shall bee deemed, taken, or adjudged to bee high Treason, any Law, Statute, Act, or Ordinance to the contrary in any wise notwithstanding.</p>
+            <p>Provided nevertheless, and it is hereby de<g ref="char:EOLhyphen"/>clared to bee the full Purpose and true Intent and meaning of this Ordinance, That the Laws and Statutes made in the times of the
+<pb n="65" facs="tcp:169175:5"/>late Queen <hi>Elizabeth</hi> and of King <hi>James</hi> against the pretended Authority of the Bishop of <hi>Rome,</hi> and his See, Iesuits, Seminary Priests, and Professors of the Romish Religion, should not be repealed, but stand, bee, and Continue in full force and effect in every Clause and part thereof; And therefore, If any person or persons shall attribute unto, maintain, or de<g ref="char:EOLhyphen"/>fend the Bishop of <hi>Rome,</hi> or his See, to have any Power, Authority, or Iurisdiction with<g ref="char:EOLhyphen"/>in this Commonwealth, Or if any person hath procured, or shall obtain from the Bishop of <hi>Rome</hi> or his See, any Bulls, writings or In<g ref="char:EOLhyphen"/>struments to absolve the people of this Com<g ref="char:EOLhyphen"/>monwealth from their obedience to this Go<g ref="char:EOLhyphen"/>vernment, and to reconcile them to the Autho<g ref="char:EOLhyphen"/>rity of the said See. And hath used, or put in Vre, or shall use or put in Vre, any such Instrument, either upon orbeyond the Seas, or in any place within this Commonwealth, Or if any person or persons by colour of any such Instrument, hath, or have heretofore taken, or shall hereafter take upon him or them to ab<g ref="char:EOLhyphen"/>solve or reconcile, or to grant, or promise any such Absolution or Reconciliation; Or if any person or persons shall obtain or get any manner of Bull, writing, or other Instru<g ref="char:EOLhyphen"/>ment, either written or priuted, which shall contain any thing, matter or Cause whatsoe<g ref="char:EOLhyphen"/>ever; Or shall publish, or by any wayes or means put in Vre any such Bull, writing or Instrument; Or if any person or persons shall pretend to have Power, or shall by any ways or means put in practice to absolve, perswade, or withdraw any of the people of this Com<g ref="char:EOLhyphen"/>monwealth from their obedience to the Go<g ref="char:EOLhyphen"/>vernment
+<pb n="66" facs="tcp:169175:6"/>established in the same; Or to move any of them to promise any obedience to any pretended Authority of the See of <hi>Rome,</hi> or of any other Prince, State, or Potentate to be had or used within this Commonwealth; And shall do any overt Act to that intent or purpose; Or if any person shall by any means be willingly reconciled or absolved, or with<g ref="char:EOLhyphen"/>drawn as aforesaid; Or shall promise any obe<g ref="char:EOLhyphen"/>dience to any such pretended Authority, Prince, State, or Potentate, as aforesaid; Or if any Iesuit, Seminary Priest, or such other Priest, Deacon, or Religious or Ecclesiastical person whatsoever being born in any parts within this Commonwealth, or the Dominions there<g ref="char:EOLhyphen"/>of, that hath been or shall be made, ordained, or professed by any Authority or Iurisdiction derived, or challenged, or pretended from the See of <hi>Rome,</hi> by, or of what Name, Title, or Degree soever the same be called, or known, and shall come into, be, or remain in any parts of this Commonwealth, or the Dominions thereof, That then all and every the offences abovementioned shall be and are hereby deem<g ref="char:EOLhyphen"/>ed and adjudged to be high Treason.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thursday</hi> the 19. of <hi>January</hi> 1653.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by his Highness the Lord Protector, and his Council, That this Ordinance be forthwith Printed and Published.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobell,</hi> Clerk<lb/> of the Council.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
